@@ -2,8 +2,7 @@
 
 ## WebSockets
 
-For this app, we'll be using Socket.io to create a websocket connection between ReactJS (Client) and Express (Server).
-
+For this app, we'll be using Socket.io to create a websocket connection between ReactJS (Client) and our server.
 ### What Is a WebSocket?
 
 A WebSocket is a **bidirectional** communication protocol.
