@@ -6,6 +6,7 @@ import "./Home.css";
 const Home = () => {
   const [roomName, setRoomName] = React.useState("");
 
+  // Handles the room name and sets the path the the input
   const handleRoomNameChange = (event) => {
     setRoomName(event.target.value);
   };
